@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="sample project" default="info">
+<target name="info">
+<echo> Hello Mahesh is an DevOps Engineer </echo>
+</target>
+</project>
+
